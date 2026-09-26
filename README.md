@@ -18,7 +18,7 @@ This command converts the `form.ui` file into the Python file `New_window.py`.
 
 ## Running the Project
 
-The main Python file of the project is `GasDis.py`.
+The main Python file of the project is `Gasapp.py`.
 
 After completing the model setup and generating `New_window.py`, run:
 
